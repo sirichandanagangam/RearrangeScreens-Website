@@ -1,13 +1,12 @@
-import Home from './HomePage/Home';
+import Home from './HomePage/Home'
 
-import './App.css';
-function App (){
- 
- return (
+import './App.css'
+function App () {
+  return (
     <div>
-    
-   <Home/>
+
+      <Home />
     </div>
-  );
-export default App;
+  )
 }
+export default App
