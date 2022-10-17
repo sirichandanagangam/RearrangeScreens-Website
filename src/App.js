@@ -1,9 +1,6 @@
-import logo from './logo.svg';
-import { Login } from './LoginPage/Login';
 import Home from './HomePage/Home';
 
 import './App.css';
-
 function App (){
  
  return (
@@ -12,5 +9,5 @@ function App (){
    <Home/>
     </div>
   );
- }
 export default App;
+}
