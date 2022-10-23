@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 .screen_images {
   height: 1000px;
   display: grid;
@@ -28,7 +29,7 @@ code {
 
 .s1 {
   grid-area: s1;
-  margin-top: 170px ;
+  margin-top: 170px;
 }
 
 .s2 {
@@ -36,18 +37,26 @@ code {
   margin-top: 55px;
 }
 
-.s9 { grid-area: s9; }
+.s9 {
+  grid-area: s9;
+}
 
-.s3 { grid-area: s3; }
+.s3 {
+  grid-area: s3;
+}
 
 .s4 {
   grid-area: s4;
   margin-top: -55px;
 }
 
-.s10 { grid-area: s10; }
+.s10 {
+  grid-area: s10;
+}
 
-.s5 { grid-area: s5; }
+.s5 {
+  grid-area: s5;
+}
 
 .s6 {
   grid-area: s6;
@@ -59,7 +68,9 @@ code {
   margin-top: 65px;
 }
 
-.s7 { grid-area: s7; }
+.s7 {
+  grid-area: s7;
+}
 
 .s8 {
   grid-area: s8;
