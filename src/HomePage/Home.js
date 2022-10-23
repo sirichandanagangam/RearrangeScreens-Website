@@ -53,7 +53,7 @@ const data = [
     one: 11,
     two: -1,
     path: 'images/screen10.png'
-  },  {
+  }, {
     current: 11,
     one: -1,
     two: -1,
