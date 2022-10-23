@@ -8,47 +8,56 @@ const data = [
     one: 2,
     two: 9,
     path: 'images/screen1.png'
-  }, {
+  }, 
+  {
     current: 2,
     one: 3,
     two: 4,
     path: 'images/screen2.png'
-  }, {
+  }, 
+  {
     current: 3,
     one: 5,
     two: -1,
     path: 'images/screen3.png'
-  }, {
+  }, 
+  {
     current: 4,
     one: 6,
     two: -1,
     path: 'images/screen4.png'
-  }, {
+  }, 
+  {
     current: 5,
     one: 7,
     two: -1,
     path: 'images/screen5.png'
-  }, {
+  }, 
+  {
     current: 6,
     one: 8,
     two: -1,
     path: 'images/screen6.png'
-  }, {
+  }, 
+  {
     current: 7,
     one: 0,
     two: -1,
     path: 'images/screen7.png'
-  }, {
+  }, 
+  {
     current: 8,
     one: 0,
     two: -1,
     path: 'images/screen8.png'
-  }, {
+  }, 
+  {
     current: 9,
     one: 10,
     two: -1,
     path: 'images/screen9.png'
-  }, {
+  }, 
+  {
     current: 10,
     one: 11,
     two: -1,
