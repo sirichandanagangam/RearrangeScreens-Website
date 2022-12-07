@@ -64,7 +64,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Reorder Screens is a platform that enables you to rearrange the screens of a mobile application without having to make any changes to the underlying source code and so without having to re-upload the build to an app marketplace. This can help reduce development costs and speed up deployment. While Reorder Screens is a prototype built for Google’s Android platform and so focuses on obviating the need to re-upload to Google Play, Google’s app marketplace, it is a proof of concept that is not specific to Google Play and Android. The same idea can be applied to Apple’s App Store and IOS, or in principle to any other distribution platform. Reorder Screens includes a Software Development Kit (SDK), a web portal, and a back-end that connects the two. The web portal shows a screen flowchart for the mobile application, which reflects the actual order in which the screens appear in the mobile application. Using the web portal, the Product Owner can change the screen order without having to lean on the help of a software developer. The Android SDK has the logic to rearrange the screens of the Android mobile application based on the order received from the web portal via Reorder Screen’s back-end.
+Reorder Screens is a platform that enables you to rearrange the screens of a mobile application without having to make any changes to the underlying 
+source code and so without having to re-upload the build to an app marketplace. This can help reduce development costs and speed up deployment. While 
+Reorder Screens is a prototype built for Google’s Android platform and so focuses on obviating the need to re-upload to Google Play, Google’s app 
+marketplace, it is a proof of concept that is not specific to Google Play and Android. The same idea can be applied to Apple’s App Store and IOS, or in 
+principle to any other distribution platform. Reorder Screens includes a Software Development Kit (SDK), a web portal, and a back-end that connects the 
+two. The web portal shows a screen flowchart for the mobile application, which reflects the actual order in which the screens appear in the mobile 
+application. Using the web portal, the Product Owner can change the screen order without having to lean on the help of a software developer. The Android 
+SDK has the logic to rearrange the screens of the Android mobile application based on the order received from the web portal via Reorder Screen’s back-
+end.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +99,7 @@ After the project is setup locally
 cd rearrangescreens
 npm start
 ```
-Link to the code of an android SDK : https://github.com/sirichandanagangam/RearrangeScreens-android
+Link to the code of an android SDK : [here]
 <!-- USAGE EXAMPLES -->
 ## Screenshots
 <img width="1177" alt="results_1_web" src="https://user-images.githubusercontent.com/97136285/205789933-eecf80f3-d8e2-4b9f-a545-024ebc0d1efd.png">
@@ -103,7 +111,7 @@ Link to the code of an android SDK : https://github.com/sirichandanagangam/Rearr
 <!-- CONTACT -->
 ## Contact
 
-Siri Chandana Gangam - [Linkedin](https://www.linkedin.com/in/siri-chandana-gangam-b27716157/) - gangamsirichandana@gmail.com
+Siri Chandana Gangam - [LinkedIn] - gangamsirichandana@gmail.com
 
 Project Link: [https://github.com/sirichandanagangam/RearrangeScreens-android](https://github.com/sirichandanagangam/RearrangeScreens-android)
 
@@ -113,7 +121,9 @@ Project Link: [https://github.com/sirichandanagangam/RearrangeScreens-android](h
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-It was my parents' sacrifices that enabled me to remain committed to my education, and I wish to thank them for that. I would like to express my gratitude to my mentor, professor Dr. Will Braynen, for his guidance and challenging tasks along this journey which enabled me to comprehend the concepts. I would like to thank my committee members Mike Bailey and Arash Termehchy for their flexibility regarding scheduling the exam. The contributions of Bhavana Bandam Reddy and Yashoda in reviewing my code and helping me in maintaining the coding standards are highly appreciated.
+It was my parents' sacrifices that enabled me to remain committed to my education, and I wish to thank them for that. I would like to express my gratitude  to my mentor, professor Dr. Will Braynen, for his guidance and challenging tasks along this journey which enabled me to comprehend the concepts. I would 
+like to thank my committee members Mike Bailey and Arash Termehchy for their flexibility regarding scheduling the exam. The contributions of Bhavana 
+Bandam Reddy and Yashoda in reviewing my code and helping me in maintaining the coding standards are highly appreciated.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +131,8 @@ It was my parents' sacrifices that enabled me to remain committed to my educatio
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://www.linkedin.com/in/siri-chandana-gangam-b27716157/
+[LinkedIn]: https://www.linkedin.com/in/siri-chandana-gangam-b27716157/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]:https://reactjs.org/
+[here]:https://github.com/sirichandanagangam/RearrangeScreens-android
 
