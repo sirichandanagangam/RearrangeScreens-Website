@@ -120,7 +120,7 @@ Project Link: [https://github.com/sirichandanagangam/RearrangeScreens-android](h
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-It was my parents' sacrifices that enabled me to remain committed to my education, and I wish to thank them for that. I would like to express my gratitude 
+It was my parents' sacrifices that enabled me to remain committed to my education, and I wish to thank them for that. I would like to express my gratitude
 to my mentor, professor Dr. Will Braynen, for his guidance and challenging tasks along this journey which enabled me to comprehend the concepts. I would
 like to thank my committee members Mike Bailey and Arash Termehchy for their flexibility regarding scheduling the exam. The contributions of Bhavana
 Bandam Reddy and Yashoda in reviewing my code and helping me in maintaining the coding standards are highly appreciated.
